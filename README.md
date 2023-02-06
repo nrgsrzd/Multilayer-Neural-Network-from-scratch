@@ -1,1 +1,1 @@
-# Multi-Neural-Network-from-scratch
+# MultiLayer-Neural-Network-from-scratch
